@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash / window theme only; the visible UI is Jetpack Compose Material 3
+         (see ui/theme/Theme.kt), always in the dark navy/neon brand theme. -->
+    <style name="Theme.AvtPro" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#081120</item>
+        <item name="android:statusBarColor">#081120</item>
+        <item name="android:navigationBarColor">#081120</item>
+    </style>
+</resources>
